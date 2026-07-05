@@ -1,4 +1,4 @@
-# <div align="center">⚡ Niranchana ⚡</div>
+# <div align="center"> Niranchana </div>
 
 <div align="center">
 
@@ -33,6 +33,7 @@ Currently Learning:
   - Memory Forensics
   - SIEM
   - Malware Reverse Engineering
+  - Deepfake XAI
 
 Goal:
   Build practical cybersecurity tools and contribute to open-source projects.
@@ -84,25 +85,15 @@ Goal:
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Niran-cy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
 | Project                      | Description                            |
 | ---------------------------- | -------------------------------------- |
 | 🔐 Password Strength Checker | Modern password analyzer with clean UI |
 | 🔒 Caesar Cipher Encryption  | Interactive encryption/decryption tool |
-| 🛡️ File Integrity Monitor   | Real-time file monitoring & hashing    |
-| 📂 Malware Static Analyzer   | Static malware analysis utility        |
-| 💻 Cyber Utilities           | Collection of Python security scripts  |
+| 🛡️ Email analyzer            | Real-time phishing mail analyzer       |
+| 📂 Shelter 360 [app]         | Static malware analysis utility        |
+| 💻 xai deepfake forensic     | detection tool,[curently working       |
 
 ---
 
@@ -145,17 +136,7 @@ Log Analysis
 
 </p>
 
----
 
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Niran-cy&label=Visitors&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
 
 <div align="center">
 
