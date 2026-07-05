@@ -46,13 +46,13 @@ Goal:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </p>
 
 ### Security & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
