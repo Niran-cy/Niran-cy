@@ -10,7 +10,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 ```yaml
 Name: Niranchana
@@ -41,7 +41,7 @@ Goal:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -75,7 +75,7 @@ Goal:
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
 
@@ -85,28 +85,27 @@ Goal:
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 | Project                      | Description                            |
 | ---------------------------- | -------------------------------------- |
-| 🔐 Password Strength Checker | Modern password analyzer with clean UI |
-| 🔒 Caesar Cipher Encryption  | Interactive encryption/decryption tool |
-| 🛡️ Email analyzer            | Real-time phishing mail analyzer       |
-| 📂 Shelter 360 [app]         | Static malware analysis utility        |
-| 💻 xai deepfake forensic     | detection tool,[curently working       |
+|  Password Strength Checker | Modern password analyzer with clean UI |
+|  Caesar Cipher Encryption  | Interactive encryption/decryption tool |
+|  Email analyzer            | Real-time phishing mail analyzer       |
+|  Shelter 360 [app]         | Static malware analysis utility        |
+|  xai deepfake forensic     | detection tool,[curently working]       |
 
 ---
 
-## 🎯 Currently Working On
+##  Currently Working On
 
-* 🛡️ Windows File Integrity Monitor
-* 🔍 Static Malware Analyzer
-* 📁 Digital Forensics Toolkit
-* 🐍 Python Automation Projects
+*  Windows File Integrity Monitor
+*  XAI deepfake forensic
+*  Python Automation Projects
 
 ---
 
-## 📚 Areas of Interest
+##  Areas of Interest
 
 ```text
 Digital Forensics
@@ -122,7 +121,7 @@ Log Analysis
 
 ---
 
-## 🌐 Connect
+##  Connect
 
 <p>
 
@@ -142,6 +141,5 @@ Log Analysis
 
 ### "Security isn't a product. It's a process."
 
-⭐ If you find my work interesting, consider giving a star to my repositories!
 
 </div>
