@@ -1,16 +1,166 @@
-## Hi there 👋
+# <div align="center">⚡ Niranchana ⚡</div>
 
-<!--
-**Niran-cy/Niran-cy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Cyber Forensics & Information Security • Blue Team • Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cyber+Forensics+Student;Blue+Team+Learner;Python+Developer;Building+Security+Tools;Always+Learning+Something+New+%F0%9F%9A%80" />
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+```yaml
+Name: Niranchana
+Location: Chennai, India 🇮🇳
+
+Education:
+  - M.Sc Cyber Forensics & Information Security
+
+Interests:
+  - Digital Forensics
+  - Blue Team
+  - Malware Analysis
+  - Incident Response
+  - Threat Hunting
+  - Python Automation
+  - Windows Internals
+
+Currently Learning:
+  - DFIR
+  - Memory Forensics
+  - SIEM
+  - Malware Reverse Engineering
+
+Goal:
+  Build practical cybersecurity tools and contribute to open-source projects.
+```
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
+</p>
+
+### Security & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Niran-cy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niran-cy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niran-cy&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niran-cy&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Niran-cy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project                      | Description                            |
+| ---------------------------- | -------------------------------------- |
+| 🔐 Password Strength Checker | Modern password analyzer with clean UI |
+| 🔒 Caesar Cipher Encryption  | Interactive encryption/decryption tool |
+| 🛡️ File Integrity Monitor   | Real-time file monitoring & hashing    |
+| 📂 Malware Static Analyzer   | Static malware analysis utility        |
+| 💻 Cyber Utilities           | Collection of Python security scripts  |
+
+---
+
+## 🎯 Currently Working On
+
+* 🛡️ Windows File Integrity Monitor
+* 🔍 Static Malware Analyzer
+* 📁 Digital Forensics Toolkit
+* 🐍 Python Automation Projects
+
+---
+
+## 📚 Areas of Interest
+
+```text
+Digital Forensics
+Blue Team Operations
+Threat Detection
+Windows Security
+Python Automation
+Malware Analysis
+Incident Response
+Memory Forensics
+Log Analysis
+```
+
+---
+
+## 🌐 Connect
+
+<p>
+
+<a href="https://github.com/Niran-cy">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Niran-cy&label=Visitors&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Security isn't a product. It's a process."
+
+⭐ If you find my work interesting, consider giving a star to my repositories!
+
+</div>
