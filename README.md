@@ -34,6 +34,7 @@ Currently Learning:
   - SIEM
   - Malware Reverse Engineering
   - Deepfake XAI
+  - File Analyzer
 
 Goal:
   Build practical cybersecurity tools and contribute to open-source projects.
