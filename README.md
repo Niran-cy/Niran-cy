@@ -47,7 +47,7 @@ Goal:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,go,html,css,js,sqllite" />
 </p>
 
 ### Security & Development
@@ -95,12 +95,12 @@ Goal:
 |  Email analyzer            | Real-time phishing mail analyzer       |
 |  Shelter 360 [app]         | Static malware analysis utility        |
 |  xai deepfake forensic     | detection tool,[curently working]       |
+| Integrity Watch            | File Integrity Monitoring               |
 
 ---
 
 ##  Currently Working On
 
-*  Windows File Integrity Monitor
 *  XAI deepfake forensic
 *  Python Automation Projects
 
