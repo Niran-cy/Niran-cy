@@ -47,7 +47,7 @@ Goal:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,go,html,css,js,sqllite" />
+<img src="https://skillicons.dev/icons?i=python,go,html,css,js,sql" />
 </p>
 
 ### Security & Development
